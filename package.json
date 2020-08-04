@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http:github.com/JavaidAhmadKhan/portfolio.git"
+    "url": "git+https://github.com/JavaidAhmadKhan/portfolio"
   },
   "keywords": [],
   "author": "Jacobo Martinez",
